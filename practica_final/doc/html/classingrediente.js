@@ -1,0 +1,26 @@
+var classingrediente =
+[
+    [ "getCalorias", "classingrediente.html#ad22b8aa7d67351699d9e208de0b7d896", null ],
+    [ "getFibra", "classingrediente.html#ad33a9651f19a39c8157dbd7d63c69cdb", null ],
+    [ "getGrasas", "classingrediente.html#a6250c0751a2e5bc5adeb0c9de7f209e7", null ],
+    [ "getHc", "classingrediente.html#a25b3b1bb017318d0aa9274484be7bc7a", null ],
+    [ "getNombre", "classingrediente.html#a8da227d03af8811627434703922b463a", null ],
+    [ "getProteinas", "classingrediente.html#a64258034d6cf7c70cb496dc91c7ab0fa", null ],
+    [ "getTipo", "classingrediente.html#a03334e887add1dbdc7991de77234ede7", null ],
+    [ "setCalorias", "classingrediente.html#ace6b60c1141ab1adcbe22a3676dd22cd", null ],
+    [ "setFibra", "classingrediente.html#a5f382b7fa5b4440f6fdd9dbc2b935b3b", null ],
+    [ "setGrasas", "classingrediente.html#ab7000d1493ac57edf039e74692c65d2a", null ],
+    [ "setHc", "classingrediente.html#ae26cbc73ca5297a1561cdc50608f756d", null ],
+    [ "setNombre", "classingrediente.html#a2c4d0b06aa19b99283b69813f3d72332", null ],
+    [ "setProteinas", "classingrediente.html#a65a27729634f782e35cc4858495d0b1d", null ],
+    [ "setTipo", "classingrediente.html#a47c44d78d5914f65110f3139b827015a", null ],
+    [ "operator<<", "classingrediente.html#a6de781238b13d4d170accef41764de98", null ],
+    [ "operator>>", "classingrediente.html#a640bce3b58d5502dfc5c18168999034e", null ],
+    [ "Calorias", "classingrediente.html#aecae7b9085aadaab58d74bc9c7c931eb", null ],
+    [ "Fibra", "classingrediente.html#aa87b38c28d84fdf8971a40ba170100f9", null ],
+    [ "Grasas", "classingrediente.html#a5bee66c3c3a6b71172e4d20c66efe0d8", null ],
+    [ "Hc", "classingrediente.html#a4724918d5e89a3f0eb1b0dd9f557b374", null ],
+    [ "Nombre", "classingrediente.html#a4ccb6bfc99702e0e7331c2af6a1ef964", null ],
+    [ "Proteinas", "classingrediente.html#ab4a3cd5c0a6fd4d720b582a7df45392a", null ],
+    [ "Tipo", "classingrediente.html#ad61ea760ee0726ec821d448a94673517", null ]
+];

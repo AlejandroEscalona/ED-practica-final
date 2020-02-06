@@ -1,0 +1,25 @@
+var classingredientes =
+[
+    [ "const_iterator", "classingredientes_1_1const__iterator.html", "classingredientes_1_1const__iterator" ],
+    [ "iterator", "classingredientes_1_1iterator.html", "classingredientes_1_1iterator" ],
+    [ "begin", "classingredientes.html#a9d61c6347e216b9f99264982ad8e6074", null ],
+    [ "borrar", "classingredientes.html#ab7d11a82a9ee0bc809b93c9f39d2ec79", null ],
+    [ "cbegin", "classingredientes.html#a40fdccf1fc4542ea0774a79cfc83e070", null ],
+    [ "cend", "classingredientes.html#a5149813ebd368e888102e69b3d9c54e8", null ],
+    [ "clear", "classingredientes.html#ac7cc4f90c19935063ba0401f9aab1394", null ],
+    [ "end", "classingredientes.html#a52a01bdabf8b52426c12976badcee775", null ],
+    [ "EstaDatos", "classingredientes.html#a3dc585e5abc23942272f65d2af4981bf", null ],
+    [ "EstaIndice", "classingredientes.html#a16172fd1d73de2b8c5c0dd8e4cd110ec", null ],
+    [ "get", "classingredientes.html#a350e04e1672c8abd34c3637a2cc351d5", null ],
+    [ "getIngredienteTipo", "classingredientes.html#a160ecb07facb16cbe7369ea797c67549", null ],
+    [ "getTipos", "classingredientes.html#a57594cb6c675d23f7894fe6388c95a7f", null ],
+    [ "ImprimirPorTipo", "classingredientes.html#a17b4bf762a4ead4e46218f4aed10e242", null ],
+    [ "Insertar", "classingredientes.html#a3cc7f7a3548ff4015dd4781b0c37786b", null ],
+    [ "operator[]", "classingredientes.html#a84964c5345fdcfd2a65bbc0b8b07a59f", null ],
+    [ "operator[]", "classingredientes.html#a9e099786f83d0ac3cf38317b194691db", null ],
+    [ "size", "classingredientes.html#a642511344976e22479ae78e4ee2917f9", null ],
+    [ "operator<<", "classingredientes.html#a10c5881898046d518237308a471c9f19", null ],
+    [ "operator>>", "classingredientes.html#ad42f8a70435593efe711d5f9ad2d53d2", null ],
+    [ "datos", "classingredientes.html#a0c69aef7de8601d22f1f9afe09acd579", null ],
+    [ "indice", "classingredientes.html#a9bd93947ee274a4337bdbf40d0f4c3f4", null ]
+];
